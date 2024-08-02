@@ -4,3 +4,12 @@
 
 //Non Primitive or Reference Type
 //Arrays, Objects, functions 
+
+
+
+//_______________________________________Memory_______________________________________________
+// Stack (Primitive - you get a copy )
+// heap (Non Primitive - you get a reference )
+
+
+
